@@ -9,7 +9,7 @@ public class Carrots {
         int contestent = Integer.parseInt(st.nextToken());
         int probSolved = Integer.parseInt(st.nextToken());
         while(contestent -- > 0){
-            String str = br.readLine();
+            br.readLine();
         }
         pw.printf("%d \n", probSolved);
         pw.flush();
